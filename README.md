@@ -1,1 +1,1 @@
-Simple app for employees managament
+Simple app for employees management
